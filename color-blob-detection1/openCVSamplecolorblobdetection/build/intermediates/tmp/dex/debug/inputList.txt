@@ -1,0 +1,2 @@
+/Users/Brendan/AndroidStudioProjects/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/classes/debug
+/Users/Brendan/AndroidStudioProjects/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/pre-dexed/debug/classes-cbb7860d10a6d15fd1d9875566877ba286c74428.jar
