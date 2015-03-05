@@ -2,11 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/Users/Brendan/AndroidStudioProjects/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/exploded-aar/color-blob-detection1/openCVLibrary2410/unspecified/classes.jar"
+        jar="/Users/Brendan/GitHub/HCI-Graffiti/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/exploded-aar/color-blob-detection1/openCVLibrary2410/unspecified/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="d3680fe3926babdf404eaea490ea05df08dd3970">
-        <dex dex="/Users/Brendan/AndroidStudioProjects/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/pre-dexed/debug/classes-cbb7860d10a6d15fd1d9875566877ba286c74428.jar" />
+        sha1="cedc8aa141cb18f3b1623b0fd94498ccdb0c57d7">
+        <dex dex="/Users/Brendan/GitHub/HCI-Graffiti/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/pre-dexed/debug/classes-e0e806fb72274d2d8d3bee17035f78b0034ebffa.jar" />
     </item>
 
 </items>

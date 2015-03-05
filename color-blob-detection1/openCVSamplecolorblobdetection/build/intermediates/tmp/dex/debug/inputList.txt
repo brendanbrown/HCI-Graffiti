@@ -1,2 +1,2 @@
-/Users/Brendan/AndroidStudioProjects/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/classes/debug
-/Users/Brendan/AndroidStudioProjects/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/pre-dexed/debug/classes-cbb7860d10a6d15fd1d9875566877ba286c74428.jar
+/Users/Brendan/GitHub/HCI-Graffiti/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/classes/debug
+/Users/Brendan/GitHub/HCI-Graffiti/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/pre-dexed/debug/classes-e0e806fb72274d2d8d3bee17035f78b0034ebffa.jar
